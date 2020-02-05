@@ -3,6 +3,8 @@
 # [@shieldy_bot](https://t.me/shieldy_bot) Telegram bot code
 
 This is the code for the anti-spam Telegram bot I've built. Enjoy and feel free to reuse!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devloperarea51/shieldy)
+
 
 # Installation
 
